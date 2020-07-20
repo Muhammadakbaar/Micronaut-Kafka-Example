@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: rewe.test.das
+---
+testFramework: spock
+sourceLanguage: java

@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: micronaut-kafka-example
+
+kafka:
+  bootstrap:
+    servers: localhost:9092
+  topics:
+    consumer: micronaut
