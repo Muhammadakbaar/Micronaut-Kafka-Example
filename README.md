@@ -1,2 +1,2 @@
 # Micronaut-Kafka-Example
-kafka example default
+kafka example default with micronaut
